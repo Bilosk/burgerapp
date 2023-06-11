@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+#BurgerApp
+                                                        WEB TASARIM   ÖDEVİ
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+                                                             BURGER APP
 
-In the project directory, you can run:
+                                                             22430070058
 
-### `npm start`
+                                                            BİLAL YILDIZ
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+                                                               
+                                                             KISA ÖZET :
+Javascript react frameworkü ile kodladığım bu basit web sitesi, kullanıcıların online olarak burger siparişi vermesini sağlıyor.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+                                                             ANASAYFA
+![image](https://github.com/Bilosk/burgerapp/assets/134135978/91b8ae61-f4ce-44d5-84e5-dfd518f73ab9)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Siteye ilk girildiğinde kullanıcıları böyle bir anasayfa karşılıyor. Sol üstte anasayfa menü elemanı ile istenildiği zaman bu sayfaya geçiş yapılabiliyor.
 
-### `npm run build`
+ ![image](https://github.com/Bilosk/burgerapp/assets/134135978/7830ecf0-3f15-49a0-a017-09601756726c)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Menu, menü elemanı ile kullanıcıların istediği burger menülerini seçmelerine olanak sağlanıyor.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ ![image](https://github.com/Bilosk/burgerapp/assets/134135978/966b148e-2eef-47b2-8a3f-2b649b78d36b)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Hakkımızda, menü elemanı ile işletme hakkında bilgi veriliyor.
 
-### `npm run eject`
+ ![image](https://github.com/Bilosk/burgerapp/assets/134135978/f72d4201-288a-4f94-8823-62c85dc99ad1)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+İletişim, menü elemanı ile kullanıcıların işletme ile iletişim sağlama olanağı bulunuyor.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://github.com/Bilosk/burgerapp/assets/134135978/7077deb2-18e3-4195-b003-175e51eba908)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Sipariş ver butonu ile de kullanıcıları menüler kısmına geçişi sağlanıyor. 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Yaptığım web sitesini anlatmaya çalıştım. Umarım anlatabilmişimdir. Okuduğunuz için teşekkür ederim.
